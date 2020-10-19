@@ -1,4 +1,4 @@
-# GoogleDSC- Google Ads Review
+# GoogleDSC Product Review and Explanation
 Google Developers Club at ITB
 Google Developers Product Review : Google Ads
 
