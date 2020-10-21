@@ -36,5 +36,5 @@ Google Ads, platform advertising yang sering dikatakan sebagai platform terbesar
 2. Klik Kampanye, pilih Kampanye Baru
 3. Pilih Target pasar anda di opsi yang disediakan. Jika tidak ada yang cocok menurut anda, pilih Buat kampanye tanpa panduan sasaran.
 4. Piilh jenis kampanye yang terbaik menurut anda. lalu pilih subjenis kampanye jika ada.
-5. Setelah itu, anda tinggal melakukan finishing, yakni men-setting kampanye, menyiapkan grup iklan, dan membuat iklan. Google ads juga dapat membuat iklan yang menarik secara otomatis sekarang, anda cukup memasukkan blok blok dari iklan anda.
+5. Setelah itu, anda tinggal melakukan finishing, yakni men-setting kampanye, menyiapkan grup iklan, dan membuat iklan. Google ads juga dapat membuat iklan yang menarik secara otomatis sekarang, anda cukup memasukkan blok blok dari iklan anda.<br>
 <br>Tentunya cara di atas merupakan gambaran yang sangat sederhana, namun, untuk memaksimalkan pengiklanan anda, anda perlu menggunakan strategi yang baik, memaksimalkan seluruh fitur google ads yang tersedia, dan terus mencoba.
