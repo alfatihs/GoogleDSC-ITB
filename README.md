@@ -1,13 +1,13 @@
-# GoogleDSC : Google Product Review and Explanation
+# GoogleDSC : Google Product Review and Explanation 
 Google Developers Club at ITB
-Google Developers Product Review : Google Ads
+## Google Developers Product Review : Google Ads
 
 Google Ads, platform advertising yang sering dikatakan sebagai platform terbesar di dunia. Kenapa bisa begitu?? mari kita simak..
 Apa itu Google Ads? Singkatnya, google ads adalah sebuah platform yang disediakan oleh Google Devs untuk membantu penggunanya dalam meluaskan bisnisnya, dengan menggunakan sistem yang canggih dan terstruktur. sebelumnya, Google Ads dikenal dengan nama Google Adwords.
 Google ads menyediakan berbagai cara terbaru untuk meningkatkan profit (keuntungan) , meraih lebih banyak orang sesuai keinginan kita, dan pastinya membuat bisnis lebih efektif.
 Sebenarnya, apapun yang ingin kita sebarluaskan bisa dilakukan, bukan hanya bisnis modern, namun juga jualan barang barang unik, tulisan berjalan, situs, atau bahkan iklan politik pun, bisa dilakukan. Waw!
 
-Secara sederhana, beginilah prinsip kerja Google Ads:
+### Secara sederhana, beginilah prinsip kerja Google Ads:
 - Hampir semua orang mencari solusi dari segala masalah di Google.
 - Nah, di situlah kesempatan Anda, sebagai pemilik bisnis atau produk, memasarkan solusi yang dapat Anda berikan kepada pengguna.
 - Google secara otomatis (secara gratis) akan menampilkan solusi solusi terbaik di bagian atas pencarian. Hasil pencarian itu disebut "Organic Results". 
@@ -17,7 +17,7 @@ Secara sederhana, beginilah prinsip kerja Google Ads:
 - Anda juga bisa mengatur kriteria target pasar anda. dengan begitu, anda bisa mengira ngira bagaimana orang yang akan membeli produk anda jika melihat iklan tersebut.
 - Oleh karena itu, sebagai pemilik produk, anda harus pintar dalam mencari tahu keywords yang cocok dan target pasar yang sesuai.
 
-Berikut Kelebihan Kelebihan yang dimiliki oleh Google Ads:
+### Berikut Kelebihan Kelebihan yang dimiliki oleh Google Ads:
 - Google ads dapat menjadi jalan pintas agar bisnis anda dikenal oleh banyak orang dengan sangat singkat!
 - Siapa yang tidak menggunakan Google saat ini ??? Beriklan di Google Ads memberkian akses kepada pengunjung hampir di seluruh belahan dunia. Setiap harinya, google memiliki pengunjung lebih dari 3.5 miliar.
 - Masih belum cukup? Google ads jauh lebih dari itu! Mengampanyekan produk anda dengan google ads juga bisa membuat iklan anda ditampilkan di berbagai layanan google lainnya, seperti Gmail, Youtube, dan masih banyak lagi.
@@ -27,8 +27,8 @@ Berikut Kelebihan Kelebihan yang dimiliki oleh Google Ads:
 - Terdapat fitur pemasaran ulang, jadi pengunjung yang pernah mengunjungi produk Anda namun tidak membelinya, dapat ditandai sebagai pelanggan potensial, dan bisa ditayangkan kembali iklan yang relevan pada mereka dengan harapan mereka membeli produk anda.
 - Google Ads menyediakan analisis yang berguna untuk evaluasi pengiklanan Anda. Sehingga, semakin lama anda menggunakan Google Ads, semakin banyak data yang anda miliki tentang tanggapan dari target pasar anda, dan anda akan terus bisa meningkatkan hasil anda.
 
-Jika ingin bergabung dengan layanan google ads, caranya tidak sesusah yang dibayangkan.
-berikut cara membuatnya: 
+### Jika ingin bergabung dengan layanan google ads, caranya tidak sesusah yang dibayangkan.
+#### berikut cara membuatnya: 
 1. Login ke akun Google Ads, jika anda belum memilikinya, buat akun itu, tidak perlu waktu lama
 2. Klik Kampanye, pilih Kampanye Baru
 3. Pilih Target pasar anda di opsi yang disediakan. Jika tidak ada yang cocok menurut anda, pilih Buat kampanye tanpa panduan sasaran.
