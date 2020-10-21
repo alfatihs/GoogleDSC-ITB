@@ -1,11 +1,14 @@
 # GoogleDSC : Google Product Review and Explanation 
 Google Developers Club at ITB
+<br>Azmi Alfatih S. 
+<br> 16520001
 ## Google Developers Product Review : Google Ads
 
 Google Ads, platform advertising yang sering dikatakan sebagai platform terbesar di dunia. Kenapa bisa begitu?? mari kita simak..
-Apa itu Google Ads? Singkatnya, google ads adalah sebuah platform yang disediakan oleh Google Devs untuk membantu penggunanya dalam meluaskan bisnisnya, dengan menggunakan sistem yang canggih dan terstruktur. sebelumnya, Google Ads dikenal dengan nama Google Adwords.
-Google ads menyediakan berbagai cara terbaru untuk meningkatkan profit (keuntungan) , meraih lebih banyak orang sesuai keinginan kita, dan pastinya membuat bisnis lebih efektif.
-Sebenarnya, apapun yang ingin kita sebarluaskan bisa dilakukan, bukan hanya bisnis modern, namun juga jualan barang barang unik, tulisan berjalan, situs, atau bahkan iklan politik pun, bisa dilakukan. Waw!
+<br>Apa itu Google Ads? Singkatnya, google ads adalah sebuah platform yang disediakan oleh Google Devs untuk membantu penggunanya dalam meluaskan bisnisnya, dengan menggunakan sistem yang canggih dan terstruktur.
+<br>Sebelumnya, Google Ads dikenal dengan nama Google Adwords.
+<br>Google ads menyediakan berbagai cara terbaru untuk meningkatkan profit (keuntungan) , meraih lebih banyak orang sesuai keinginan kita, dan pastinya membuat bisnis lebih efektif.
+<br>Sebenarnya, apapun yang ingin kita sebarluaskan bisa dilakukan, bukan hanya bisnis modern, namun juga jualan barang barang unik, tulisan berjalan, situs, atau bahkan iklan politik pun, bisa dilakukan. Waw!
 
 ### Secara sederhana, beginilah prinsip kerja Google Ads:
 - Hampir semua orang mencari solusi dari segala masalah di Google.
@@ -34,4 +37,4 @@ Sebenarnya, apapun yang ingin kita sebarluaskan bisa dilakukan, bukan hanya bisn
 3. Pilih Target pasar anda di opsi yang disediakan. Jika tidak ada yang cocok menurut anda, pilih Buat kampanye tanpa panduan sasaran.
 4. Piilh jenis kampanye yang terbaik menurut anda. lalu pilih subjenis kampanye jika ada.
 5. Setelah itu, anda tinggal melakukan finishing, yakni men-setting kampanye, menyiapkan grup iklan, dan membuat iklan. Google ads juga dapat membuat iklan yang menarik secara otomatis sekarang, anda cukup memasukkan blok blok dari iklan anda.
-Tentunya cara di atas merupakan gambaran yang sangat sederhana, namun, untuk memaksimalkan pengiklanan anda, anda perlu menggunakan strategi yang baik, memaksimalkan seluruh fitur google ads yang tersedia, dan terus mencoba.
+<br>Tentunya cara di atas merupakan gambaran yang sangat sederhana, namun, untuk memaksimalkan pengiklanan anda, anda perlu menggunakan strategi yang baik, memaksimalkan seluruh fitur google ads yang tersedia, dan terus mencoba.
